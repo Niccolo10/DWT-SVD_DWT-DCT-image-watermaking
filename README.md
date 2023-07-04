@@ -20,4 +20,4 @@ The attacks file contain different Brute-force attacks for destroy the mark on t
 
 General_detection is the file that launch all the attacks, after a control on which frequency domain the mark seems to be embedd.
 
-Path_selection simply is a folder where to write the path to the original and the watermarked image, that is accessible to all the other fucntionsz.
+Path_selection simply is a folder where to write the path to the original and the watermarked image, that is accessible to all the other fucntions.
